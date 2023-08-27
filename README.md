@@ -1,6 +1,6 @@
 # java_servlet
 
-## This snippett helped me practice Java Servlet concepts such as:
+## This snippet helped me practice Java Servlet concepts such as:
 
 #### Java Servlet Architecture
 #### Servlet Lifecycle
@@ -9,4 +9,4 @@
 #### Servlet Attributes
 #### Session Management
 
-alt![image]()
+alt![image](https://github.com/e-terven/java_servlet/blob/56abfcb9b09f8da42b46f3ca1c5ce5e7b8ea069d/image/Collage.001.jpeg)
