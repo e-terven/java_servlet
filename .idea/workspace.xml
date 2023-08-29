@@ -4,32 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064b1ae1-9faf-44cd-88ea-8c3db50dc15f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/Servlet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/Servlet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/ServletNoDescriptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/ServletSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/SuccessServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/one.html" afterDir="false" />
+    <list default="true" id="064b1ae1-9faf-44cd-88ea-8c3db50dc15f" name="Changes" comment="servlet collaboration">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/SecondServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jsp/SummaryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/three.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/two.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/two.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -154,11 +136,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692934403790</updated>
-      <workItem from="1692934408204" duration="10918000" />
+      <workItem from="1692934408204" duration="18362000" />
     </task>
+    <task id="LOCAL-00001" summary="servlet collaboration">
+      <created>1693147238355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693147238355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="servlet collaboration" />
+    <option name="LAST_COMMIT_MESSAGE" value="servlet collaboration" />
   </component>
 </project>
